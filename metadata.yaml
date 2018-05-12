@@ -1,0 +1,32 @@
+_repo: The-Pursuit-of-God_25141
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tozer, A. W. (Aiden Wilson)
+    alias: Tozer, Aiden Wilson
+    birthdate: 1897
+    deathdate: 1963
+    gutenberg_agent_id: '31096'
+    url: http://www.gutenberg.org/2009/agents/31096
+    wikipedia: http://en.wikipedia.org/wiki/Aiden_Wilson_Tozer
+description: Cover; Title Page; Copyright Page; Table of Contents; Introduction; Preface;
+  Following Hard after God; The Blessedness of Possessing Nothing; Removing the Veil;
+  Apprehending God; The Universal Presence; The Speaking Voice; The Gaze of the Soul;
+  Restoring the Creator-Creature Relation; Meekness and Rest; The Sacrament of Living
+gutenberg_issued: '2008-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25141'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spirituality'
+- !lcc 'BV'
+- !lcsh 'God (Christianity) -- Worship and love'
+title: The Pursuit of God
+url: http://www.gutenberg.org/ebooks/25141
